@@ -1,0 +1,9 @@
+{
+  "name": "betsChallenge",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  }
+}
